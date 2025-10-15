@@ -107,6 +107,5 @@ To replicate this analysis, clone the repository and run the main notebook or sc
 
 ## Data Source
 
-The dataset used for this project is the **Red Wine Quality** dataset, publicly available on:
+The dataset used for this project is the Wine Quality dataset, publicly available on:
 * [Kaggle: Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
-* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)
